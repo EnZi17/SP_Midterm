@@ -1,0 +1,4 @@
+# ls implementation
+Tested using simple files in the current directory.
+Supported basic flags like -l and -a.
+Code is split into multiple files (ls.c, print.c, main.c) as requested.
